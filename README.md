@@ -3,7 +3,7 @@
 
 👀 I am interested in learning new things in this puerca life of pure decision making, zeros and ones...
 
-🌱 My performance in languages ​​like such as Typescript, Kotlin, CSS, Html, Javascript and of course using Frameworks such as React, Angular, component libraries implementing TailwindCSS, Chakra, Material UI.
+🌱 My performance in languages ​​like such as Typescript, Kotlin, Java, C#, CSS, Html, Javascript and of course using Frameworks such as React, Angular, component libraries implementing TailwindCSS, Chakra, Material UI.
 
 💞️ I am looking to collaborate on projects that encourage me as a programmer to improve my techniques and learning.
 
