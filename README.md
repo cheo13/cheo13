@@ -17,7 +17,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheo13&layout=compact&theme=radical)
 
-## 💻 Tecnologías y Herramientas
+## 💻 Technologies and tools
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
